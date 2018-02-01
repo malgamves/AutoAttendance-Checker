@@ -19,10 +19,17 @@ x,y = pg.center(pos)
 pg.moveTo(x, y, duration = 2)
 pg.click(x, y)
 <<<<<<< HEAD
+<<<<<<< HEAD
 time.sleep(3)
 pg.typewrite('150303105160', interval = 0.5)
 pg.hotkey('tab')
 pg.typewrite('8581', interval = 0.5)
+=======
+time.sleep(40)
+pg.typewrite('XXXXXXXXXXXX', interval = 0.5)
+pg.hotkey('tab')
+pg.typewrite('XXXXXXX', interval = 0.5)
+>>>>>>> cd775571ae807706a826690fcea369727ed1976c
 =======
 time.sleep(40)
 pg.typewrite('XXXXXXXXXXXX', interval = 0.5)
