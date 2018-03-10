@@ -5,12 +5,14 @@
 2. Install PyAutoGui using [this](https://github.com/asweigart/pyautogui/blob/master/README.md) tutorial.
 
 # Use
-1. After Python and PyAutoGui are installed, make sure you have a Chrome installled on your computer. If not then you can [download]() it. Alternatively, you can replace `pg.typewrite('chrome', interval = 0.2)` with a `pg.typewrite('**Your browser choice**', interval = 0.2)
+1. After Python and PyAutoGui are installed, make sure you have a Chrome installled on your computer. If not then you can [download](https://www.google.com/chrome/) it. Alternatively, you can replace `pg.typewrite('chrome', interval = 0.2)` with a `pg.typewrite('**Your browser choice**', interval = 0.2)
 ` 
 
 2. Edit your enrollment number here
 `pg.typewrite('XXXXXXXXXXXX', interval = 0.5)
 `
+<br>
+
 and password.
 `pg.typewrite('XXXXXXX', interval = 0.5)
 `
