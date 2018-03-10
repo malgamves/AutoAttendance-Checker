@@ -11,9 +11,8 @@
 2. Edit your enrollment number here
 `pg.typewrite('XXXXXXXXXXXX', interval = 0.5)
 `
-<br>
 
-and password.
+and password here
 `pg.typewrite('XXXXXXX', interval = 0.5)
 `
 
@@ -22,4 +21,4 @@ and password.
 # Precaustions
 - Keep FAILSAFE = True as in case any problem arises then you just drag your cursor to the top left and the program will raise an exception.
 
-**N.B:** This only works on Windows at the moment.
+**N.B:** Refer to [documentation](http://pyautogui.readthedocs.io/en/latest/) should you face any trouble.
