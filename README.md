@@ -18,6 +18,11 @@ Currently only these browsers on the Windows OS are supported.<br><br>
 
 
 3. Output
+![part1 1 1](https://user-images.githubusercontent.com/25641936/38186609-792ca00a-3671-11e8-9a95-a702270bb971.gif)
+
+![part2 1](https://user-images.githubusercontent.com/25641936/38186649-9911114e-3671-11e8-8308-acd635606131.gif)
+
+![part3](https://user-images.githubusercontent.com/25641936/38186440-af37d468-3670-11e8-86d9-57c87cd925c2.gif)
 
 
 4. The paramaters in the `time.sleep()` function depend on the speed of your interent. You can change the values as you wish.
