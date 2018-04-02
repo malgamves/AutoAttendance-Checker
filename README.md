@@ -12,17 +12,15 @@ Currently only these browsers on the Windows OS are supported.<br><br>
             
 
 
-2. Edit your 12 digit enrollment number here (*This is the number that appears on your Id Card*)
-`pg.typewrite('XXXXXXXXXXXX', interval = 0.5)`
-
-and your PUMIS password here
+2. Edit your 12 digit enrollment number here (*This is the number that appears on your Id Card*) e.g 170303105785
+`pg.typewrite('XXXXXXXXXXX', interval = 0.5)` <br>and your PUMIS password here
 `pg.typewrite('XXXXXXX', interval = 0.5)`
 
 
 3. Output
 
 
-4. The paramaters in the time.sleep() function depend on the speed of your interent. You can change the values as you wish.
+4. The paramaters in the `time.sleep()` function depend on the speed of your interent. You can change the values as you wish.
 
 # Precaustions
 - Keep FAILSAFE = True as in case any problem arises then you just drag your cursor to the top left and the program will raise an exception.
