@@ -17,6 +17,8 @@ Currently only these browsers on the Windows OS are supported.<br><br>
 
 and your PUMIS password here
 `pg.typewrite('XXXXXXX', interval = 0.5)`
+
+
 3. Output
 
 
