@@ -6,13 +6,8 @@ This is a script that will automatically check your college attendance on PUMIS 
 2. Install PyAutoGui using [this](https://github.com/asweigart/pyautogui/blob/master/README.md) tutorial.
 
 # Use
-1. After Python and PyAutoGui are installed, make sure you have a Chrome installled on your computer. If not then you can [download](https://www.google.com/chrome/) it. Alternatively, you can replace `pg.typewrite('chrome', interval = 0.2)` with a `pg.typewrite('**Your browser choice**', interval = 0.2)
-`  i.e for  - Microsoft Edge, `pg.typewrite('edge', interval = 0.2)` will work.
-            - Firefox, `pg.typewrite('firefox', interval = 0.2)` will work.
-            
-<br>   
-Currently only these browsers on the Windows OS are supported.
-<br>
+1. After Python and PyAutoGui are installed, make sure you have a Chrome installled on your computer. If not then you can [download](https://www.google.com/chrome/) it. Alternatively, you can replace `pg.typewrite('chrome', interval = 0.2)` with a `pg.typewrite('**Your browser choice**', interval = 0.2)`i.e for <br>- Microsoft Edge, `pg.typewrite('edge', interval = 0.2)` will work. <br>- Firefox, `pg.typewrite('firefox', interval = 0.2)` will work.<br>   
+Currently only these browsers on the Windows OS are supported.<br><br>
 `interval` is the amount of time it will take for each letter to typed, add a lower value to make the typing faster and a higher one to make it slower. I used `interval = 0.2` as it is more realistic.
             
 
