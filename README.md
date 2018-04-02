@@ -12,13 +12,11 @@ Currently only these browsers on the Windows OS are supported.<br><br>
             
 
 
-2. Edit your 12 digit enrollment number here (* This is the number that appears on your Id Card*)
-`pg.typewrite('XXXXXXXXXXXX', interval = 0.5)
-`
+2. Edit your 12 digit enrollment number here (*This is the number that appears on your Id Card*)
+`pg.typewrite('XXXXXXXXXXXX', interval = 0.5)`
 
 and your PUMIS password here
-`pg.typewrite('XXXXXXX', interval = 0.5)
-`
+`pg.typewrite('XXXXXXX', interval = 0.5)`
 3. Output
 
 
