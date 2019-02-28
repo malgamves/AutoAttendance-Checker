@@ -1,4 +1,4 @@
-# AutoAttendance Checker
+# AutoAttendance Checker Version 1
 This is a script that will automatically check your college attendance on PUMIS for Parul University students.
 # Installastion 
 1. Install Python 3.6 [here](https://www.python.org/downloads/release/python-364/).
